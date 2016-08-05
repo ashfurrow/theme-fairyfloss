@@ -1,0 +1,22 @@
+{
+    "name": "theme-fairyfloss",
+    "displayName": "Fairlyfloss by Amy Wibowo",
+    "description": "Cute pastel theme created with ♥",
+    "version": "0.0.1",
+    "publisher": "ashfurrow",
+    "engines": {
+        "vscode": "^1.0.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "fairyfloss",
+                "uiTheme": "vs-dark",
+                "path": "./themes/fairyfloss.tmTheme"
+            }
+        ]
+    }
+}
