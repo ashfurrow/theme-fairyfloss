@@ -14,6 +14,8 @@ A VSCode port of [Fairfloss](http://sailorhg.github.io/fairyfloss/) by [Amy Wibo
 
 ## More Information
 
+[GitHub repo](https://github.com/ashfurrow/theme-fairyfloss) for VSCode theme.
+
 [Original repo](https://github.com/sailorhg/fairyfloss).
 
 License: MIT
