@@ -1,3 +1,5 @@
+:warning: VSCode doesn't have the facilities to support a colour theme as awesome as this yet, there are limitations to which colours may be defined, so I'm putting the project on hold for now.
+
 # README
 
 A VSCode port of [Fairfloss](http://sailorhg.github.io/fairyfloss/) by [Amy Wibowo](https://twitter.com/sailorhg).
